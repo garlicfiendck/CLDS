@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#faf5f5</color>
+    <color name="colorPrimaryDark">#3a4170</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="purple">#280545</color>
+    <color name="brown">#392502</color>
+    <color name="blue">#122d5b</color>
+    <color name="green">#1c3606</color>
+
+    <array name="fav_color">
+        <item>@color/purple</item>
+        <item>@color/brown</item>
+        <item>@color/blue</item>
+        <item>@color/green</item>
+    </array>
+</resources>
